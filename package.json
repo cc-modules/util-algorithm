@@ -1,0 +1,16 @@
+{
+  "name": "util-algorithm",
+  "version": "1.0.0",
+  "description": "cocos related algorithm",
+  "main": "util-algorithm.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@code.vipkid.com.cn:3590/edu/cc-game/infra/util-algorithm.git"
+  },
+  "keywords": [
+    "cocos",
+    "algorithm"
+  ],
+  "author": "wangweihua <wangweihua@vipkid.com.cn>",
+  "license": "ISC"
+}
