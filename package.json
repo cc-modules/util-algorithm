@@ -3,6 +3,5 @@
   "version": "1.0.0",
   "description": "cocos related algorithm",
   "main": "util-algorithm.js",
-  "author": "wangweihua <wangweihua@vipkid.com.cn>",
-  "license": "ISC"
+  "author": "aztack@163.com"
 }
